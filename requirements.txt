@@ -1,0 +1,7 @@
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+streamlit>=1.32
+plotly>=5.20
+pyarrow>=14.0         # for parquet caching
+requests>=2.31        # for ercot_fetcher
