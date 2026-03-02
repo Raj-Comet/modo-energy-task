@@ -149,6 +149,10 @@ This accelerated development while maintaining quality and correctness.
 
 ## Contact
 
+**Sk Raj Ali**  
+📧 Email: skrajali062003@gmail.com  
+📱 Phone: +919635637725  
+🔗 LinkedIn: https://www.linkedin.com/in/sk-raj-ali/  
+
 For questions about this project, refer to the code comments in each module.
 
-*Built in ~3.5 hours · March 2026*
